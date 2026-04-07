@@ -42,5 +42,15 @@ A web-based quiz application that allows users to answer questions and get insta
 * Add authentication
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](Home.png)
+
+### ❓ Quiz Page
+![Quiz](QUESTION.png)
+
+### 📊 Result Page
+![Result](Result.png)
 
 ⭐️ If you like this project, give it a star!
